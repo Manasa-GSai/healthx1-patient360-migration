@@ -1,0 +1,6 @@
+visit_type_c,encounter_type,description,effective_date,is_active
+101,OFFICE,Office visit — primary care or specialist,2024-01-01,1
+102,FOLLOWUP,Follow-up visit — post-procedure or post-discharge,2024-01-01,1
+103,WELLNESS,Annual wellness visit — preventive care,2024-01-01,1
+201,ACUTE,Acute care — urgent or emergency encounter,2024-01-01,1
+0,OTHER,Unmapped encounter type — catch-all for unknown codes,2024-01-01,1
